@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#head{
+    margin-right: 120px;
+    margin-left: 120px;
+    border-style: groove;
+    text-align: center;
+    border: 5px groove crimson;
+    border-radius: 5px;   
+}
+body{
+    background-color:#D3D3D3;
+}
+#u{
+    border: 3px double black;
+    color: antiquewhite;
+     width: 50%;
+    
+    
+}
+#un{
+    margin-top: 40px;
+    margin-right: 10px;
+    padding-left: 20px;
+}
+#l{
+    margin-left: 30px;
+   
+       margin-top: 20px;
+}
